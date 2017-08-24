@@ -1,0 +1,2 @@
+# Language-Processing-TP1
+The present repository describes a study of the development of text fi lters in GAWK. As a practical case study, a set of data on transactions in the context of ViaVerde technology was chosen as the source. The source will then be a text file in XML format with several transactions, and the idealized fi lters consist in the organization of a large amount of information from the Said fi gure so that the human eye can easily find details of its interest, thus presenting the information clearly, cleanly and succinctly.
